@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Butterfly Dream"
 theme = "pixyll"
 author = "Naufal"
+publishDir = "docs"
 
 
 [params]
