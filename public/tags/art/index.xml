@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on Butterfly Dream</title>
+    <link>http://abijango.com/tags/art/</link>
+    <description>Recent content in Art on Butterfly Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://abijango.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kyle Lambert&#39;s Art on an iPad</title>
+      <link>http://abijango.com/post/2013-12-03-art-on-an-ipad/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://abijango.com/post/2013-12-03-art-on-an-ipad/</guid>
+      <description>I do experiment a little with Paper by 53 from time to time, actually this blog is sort of inspired by the man Michael Rose himself. I also sketch traditionally sometimes, have for many years; but looking at this, I am blown away. The patience and skill required to do something like this is just staggering. I wish one day I will have even a 10th of what Kyle has.</description>
+    </item>
+    
+  </channel>
+</rss>
